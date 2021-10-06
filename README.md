@@ -3,6 +3,7 @@ Predict Customer Churn using Machine Learning
 
 What the project does?
 This project was designed with the intention of showing people, in a very brief way, how the machine learning implementation process works within the telecommunications business.
+In 'Section 2: Data Understanding', I proposed some business questions that were answered throughout 'Section 5: Evaluation'.
 
 Why the project is useful?
 It is useful because, in addition to showing how machine learning implementation works in practice, it covers several mathematical and statistical concepts that will solidify the reader's knowledge throughout the article.
